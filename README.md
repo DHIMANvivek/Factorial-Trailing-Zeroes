@@ -8,38 +8,11 @@ you click on submit.
 
 
 
-
-
-
-
-
-
-
 #### Code you used for Submit/Run operation
 
 
 ```
-// 2006. Count Number of Pairs With Absolute Difference K
-<!--
-Note - Any content mention below in `<!-- ->` blocks are just comments
-to help you fill-up the issue. It won't be visible in the actual issue after
-you click on submit.
--->
-
-
-
-
-
-
-
-
-
-
-#### Code you used for Submit/Run operation
-
-
-```
-//  Factorial Trailing Zeroes
+// Factorial Trailing Zeroes
 class Solution {
     public int trailingZeroes(int n) {
       int base = 5;
